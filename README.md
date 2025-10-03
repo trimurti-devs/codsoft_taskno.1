@@ -18,8 +18,8 @@ This project demonstrates how to build a simple chatbot using Python without rel
 
 🛠️ Installation & Setup
 1. Clone or Download
-git clone https://github.com/yourusername/simple-chatbot.git
-cd simple-chatbot
+git clone [https://github.com/yourusername/simple-chatbot.git](https://github.com/trimurti-devs/codsoft_taskno.1)
+cd codsoft_taskno.1
 
 2. Run the Chatbot
 
