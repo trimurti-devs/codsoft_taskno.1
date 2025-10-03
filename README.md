@@ -34,6 +34,7 @@ The chatbot runs directly in the terminal and responds to a predefined set of co
 Clone the repository
 
 git clone https://github.com/trimurti-devs/codsoft_taskno.1.git
+
 cd codsoft_taskno.1
 
 
