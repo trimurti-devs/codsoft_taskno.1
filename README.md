@@ -2,10 +2,14 @@
 
 A beginner-friendly command-line chatbot written in Python. It can engage in small talk, tell jokes, show the current time and date, and respond to basic user queries — all in a conversational manner.
 
+---
+
 📁 Project Overview
 
 This project demonstrates how to build a simple chatbot using only Python’s standard library, without relying on external libraries or AI APIs.
 The chatbot runs directly in the terminal and responds to a predefined set of commands.
+
+---
 
 ⚙️ Features
 
@@ -23,6 +27,8 @@ The chatbot runs directly in the terminal and responds to a predefined set of co
 
 ✅ Exit – Gracefully ends the conversation with bye or exit.
 
+---
+
 🛠️ Installation & Setup
 
 Clone the repository
@@ -36,6 +42,8 @@ Run the chatbot
 Make sure you have Python 3.x installed. Then run:
 
 python chatBOT.py
+
+---
 
 💬 Usage
 
